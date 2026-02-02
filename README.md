@@ -1,7 +1,6 @@
 # Pass & Play Web Monopoly
 
 Simple Monopoly game to play with friends in real life.
-
 ## Prerequisites
 
 Make sure to have Docker Engine + Docker Compose plugin installed.
