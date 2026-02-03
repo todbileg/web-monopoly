@@ -10,7 +10,7 @@ Make sure to have Docker Engine + Docker Compose plugin installed.
 1. Clone the project to your machine:
 
 ```angular2html
-git clone 
+git clone https://github.com/todbileg/web-monopoly.git
 cd web-monopoly
 ```
 
